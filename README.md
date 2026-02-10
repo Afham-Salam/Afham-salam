@@ -13,16 +13,19 @@
 
 ###
 
-<h3 align="left">My Contributions</h3>
+<!-- <h3 align="left">My Contributions</h3> -->
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DMS-ranil/DMS-ranil/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DMS-ranil/DMS-ranil/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DMS-ranil/DMS-ranil/output/pacman-contribution-graph.svg">
-</picture>
+<!-- <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Afham-Salam/Afham-Salam/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Afham-Salam/Afham-Salam/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Afham-Salam/Afham-Salam/output/pacman-contribution-graph.svg">
+</picture> -->
 
+
+<!-- For SVG -->
+<!-- <img src="https://pacman.abozanona.me?username=Afham-salam" /> -->
 ###
 
 <div align="left">
@@ -89,7 +92,7 @@
   </a>
     <br/>
     <br/>
-   <p><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Afham-salam&theme=vitesse&border_radius=4" alt="GitHub Streak" /></a></p>
+   <!-- <p><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Afham-salam&theme=vitesse&border_radius=4" alt="GitHub Streak" /></a></p> -->
 </div> 
 
 
