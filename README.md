@@ -81,7 +81,6 @@
 ###
 
  <div align="center">
-  <a href="https://github.com/DMS-ranil" target="_blank">
     <img 
       src="https://github-readme-activity-graph.vercel.app/graph?username=Afham-salam&radius=16&theme=react&area=true&order=5"
       height="300"
