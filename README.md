@@ -81,11 +81,11 @@
 ###
 
  <div align="center">
-    <img 
+    <!-- <img 
       src="https://github-readme-activity-graph.vercel.app/graph?username=Afham-salam&radius=16&theme=react&area=true&order=5"
       height="300"
       alt="GitHub activity graph"
-    />
+    /> -->
   </a>
     <br/>
     <br/>
